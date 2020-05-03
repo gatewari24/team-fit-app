@@ -27,6 +27,10 @@ cd ~/meetSport
 node index
 ```
 * Navigate to the local port 8000 in your browser
+```
+http://localhost:8000/
+```
+
 
 ## Using Project
 
