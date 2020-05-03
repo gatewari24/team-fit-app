@@ -39,6 +39,8 @@ http://localhost:8000/
 * Connect with other users in close proximity, having similar sports interests and competency by clicking the green button beside their name.
 
 * Connections will appear in the friends panel, begin a chat by clicking the blue button beside their name.
+
+* **Note: Enter "Toronto" for location to properly matchmake with other (premade) users.
   
  * Enjoy! 🎉
 
@@ -51,7 +53,7 @@ http://localhost:8000/
 
 ## Credits
 
-- **StockData, ATM** - **[@youf](https://github.com/Yyassin) 
+- **Realtime Chat, Friends, UI** - **[@youf](https://github.com/Yyassin) 
 - **UI, Forms, ATM, Class Integration** - **[@shrishmohapatra](https://github.com/shrish-mohapatra)
 - **CurrencyConverter** - Kimberly Dao
 
