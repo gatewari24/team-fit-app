@@ -46,7 +46,7 @@ http://localhost:8000/
 
 * Connections will appear in the friends panel, begin a chat by clicking the blue button beside their name.
 
-* **Note: Enter "Toronto" for location to properly matchmake with other (premade) users.
+* **Note: Enter "Toronto" for location to properly matchmake with other (premade) users.**
   
  * Enjoy! 🎉
 
