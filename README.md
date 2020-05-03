@@ -1,6 +1,6 @@
 <span title="meetSport Dashboard">
  <p align="center">
-  <img src="https://imgur.com/a/tUgf30M">
+  <img src="https://i.imgur.com/lzhScNS.png">
  </p>
 </span>
 
