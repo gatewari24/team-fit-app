@@ -52,16 +52,16 @@ http://localhost:8000/
 
 * Create and sign in with two seperate accounts on different browser windows. Ensure the accounts have similar sports interests and live in the same city such that they are matched.
 
-* Add account one to the account two's connections, begin a live chat. 
+* Add account one to account two's connections, begin a live chat. 
 
-* Join the chat from the account two's window.
+* Join the chat front account two's window.
 
  * Enjoy! 🎉
 
 
 ## Features
 - User authentication and database integration using MongoDB Atlas
-- A real-time cuncurrent chat system using socket.io
+- A real-time concurrent chat system using socket.io
 - An optimized matchmaking alogorithm that suggests friends based on profile details.
 
 
