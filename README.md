@@ -27,6 +27,11 @@ https://github.com/Yyassin/meetSport.git
 cd ~/meetSport
 ```
 
+* Install the required dependencies:
+```
+npm i
+```
+
 * Run the main file:
 ```
 node index
