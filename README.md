@@ -65,8 +65,8 @@ http://localhost:8000/
 
 
 ## Features
-- User authentication and database integration using MongoDB Atlas
-- A real-time concurrent chat system using socket.io
+- User authentication and database integration using MongoDB Atlas.
+- A real-time concurrent chat system using socket.io.
 - An optimized matchmaking alogorithm that suggests friends based on profile details.
 
 
