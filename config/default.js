@@ -11,6 +11,7 @@ module.exports = {
     */
 
     database: {
-        uri: `mongodb+srv://db-admin:msport@52!@db-msport-xtsyh.mongodb.net/test?retryWrites=true&w=majority`
+        uri: `mongodb://localhost:27017/test`
+        
     }
 }
