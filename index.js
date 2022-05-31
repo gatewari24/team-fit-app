@@ -11,11 +11,11 @@ const register_route = require("./src/register/register.route");
 const chat_route = require("./src/chat/chat.route");
 const core_route = require("./src/core/core.route");
 
-const port = config.get("app.port");
+const port = process.env.PORT || 8080;
 const app = express();
 
 // MongoDB connection
-mongoose.connect(config.get("database.uri"), {
+mongoose.connect("mongodb+srv://root:root@team-fit-database.uqhcg.mongodb.net/?retryWrites=true&w=majority", {
     useUnifiedTopology: true,
     useNewUrlParser: true})
     .then(() => console.log("Connected to mongoDB"))
